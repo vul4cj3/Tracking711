@@ -1,4 +1,3 @@
-[![GitHub release](https://img.shields.io/github/pipenv/locked/python-version/vul4cj3/Tracking711)]()
 # Tracking711
  台灣7-11超商貨況爬蟲
 # File info
